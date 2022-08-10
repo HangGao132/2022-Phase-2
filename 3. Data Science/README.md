@@ -43,18 +43,18 @@ Before doing any processing on the data, it is essential that a data scientist h
 You are expected to show at least the following without hard-coding the values:
 
 Numerically:
-- [ ] Average.
-- [ ] Standard Deviation.
-- [ ] Percentile range either:
-    - [ ] 10th and 90th or
-    - [ ] 25th and 75th.
+- [x] Average.
+- [x] Standard Deviation.
+- [x] Percentile range either:
+    - [x] 10th and 90th or
+    - [x] 25th and 75th.
 
 Graphically:
-- [ ] Correlation Plot.
-- [ ] Graphing any Numerical Sections of the dataset.
+- [x] Correlation Plot.
+- [x] Graphing any Numerical Sections of the dataset.
 
 In addition:
-- [ ] Comment on the dataset that is provided to you based on the EDA.
+- [x] Comment on the dataset that is provided to you based on the EDA.
 
 You are also to convert any columns to their appropriate types when required.
 
