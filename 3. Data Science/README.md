@@ -64,10 +64,10 @@ Now that you know your data inside and out, you are to clean the dataset by remo
 Note that the models used in the next section only understand numbers.
 
 Student Checklist:
-- [ ] Data deemed useless removed.
-- [ ] Dataset converted to a form that a model can use.
-- [ ] A train and test dataset for the model made.
-- [ ] State a reason for each changes made to the DataFrame.
+- [x] Data deemed useless removed.
+- [x] Dataset converted to a form that a model can use.
+- [x] A train and test dataset for the model made.
+- [x] State a reason for each changes made to the DataFrame.
 
 Ensure that you have also show some general information of the train/test dataset like in the EDA before entering the modelling stage.
 
@@ -77,11 +77,11 @@ With the dataset made, you are to choose a model best suited for your purpose of
 After training the model, you are required to have the model predict one month after the latest date in the dataset and comment on the results.
 
 Student Checklist:
-- [ ] Model selected.
-- [ ] Training dataset fitted.
-- [ ] Testing dataset scored.
-- [ ] Another month of the existing dataset predicted.
-- [ ] Model evaluation in a paragraph.
+- [x] Model selected.
+- [x] Training dataset fitted.
+- [x] Testing dataset scored.
+- [x] Another month of the existing dataset predicted.
+- [x] Model evaluation in a paragraph.
 
 ## Passing this section:
 
